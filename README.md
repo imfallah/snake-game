@@ -63,7 +63,7 @@ Table of contents ✅✔
 ## Install the module with pip:
 
 ```python
-pip install Tkinter
+pip install Tk
 pip install Pillow
 pip install Random2
 pip install String
