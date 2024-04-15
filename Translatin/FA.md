@@ -4,15 +4,26 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <a href="https://github.com/jokernets/snake-game">
-<img src="1.png"></a>
+<img src="https://github.com/jokernets/snake-game/assets/165279911/2dac646b-5ff8-412e-a3c7-98fe8498f492"></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
 
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/jokernets/snake-game">
+  <img src="https://img.shields.io/github/contributors/jokernets/snake-game">
+  <img src="https://img.shields.io/github/issues/jokernets/snake-game">
+  <img src="https://img.shields.io/github/stars/jokernets/snake-game">
+
+</p>
+
+
 
 ## ترجمه 🔗
-[English](README.md)
+- [English](https://github.com/jokernets/snake-game/blob/main/README.md)
+
+- [العربية](https://github.com/jokernets/snake-game/blob/main/Translatin/AR.md)
 
 
 
@@ -31,12 +42,16 @@
   
    * [ویترین💯](#%D9%86%D9%85%D9%88%D9%86%D9%87-%D9%87%D8%A7%DB%8C-%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1-%D9%88-%D9%88%DB%8C%D8%AA%D8%B1%DB%8C%D9%86-)
      * [ویدیو از پروژه📺](#%D8%AA%D8%B5%D9%88%DB%8C%D8%B1-%D9%88%DB%8C%D8%AF%DB%8C%D9%88%DB%8C%DB%8C-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-)
+    
+
+* [ارتباط با من🌐👻](#%D8%A7%D8%B1%D8%AA%D8%A8%D8%A7%D8%B7-%D8%A8%D8%A7-%D9%85%D9%86)
+
 <!--te-->
 
 ## نصب و راه اندازی
 ### ماژول را با پیپ نصب کنید:
 ```python
-pip install Tkinter
+pip install Tk
 pip install Pillow
 pip install random
 ```
@@ -144,7 +159,7 @@ root.mainloop()
 
 ```
 
-<img src="https://github.com/jokernets/snake-game/assets/165279911/1928ea5c-26ee-4079-bdb4-34af515072c7" width="300" height="300">
+<img src="https://github.com/jokernets/snake-game/assets/165279911/e85318d1-420a-4ca4-a04f-ce7f4590235f" width="300" height="300">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -241,7 +256,7 @@ food = Food()
 running(snake,food)
 
 ```
-<img src="https://github.com/jokernets/snake-game/assets/165279911/4e919e64-8848-4d9c-9ef7-e452135ac6ce" width="300" height="300">
+<img src="https://github.com/jokernets/snake-game/assets/165279911/a2b89aef-2155-464e-95ef-719df1954d3b" width="300" height="300">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -311,17 +326,23 @@ def quit_game():
 quit_btn= Button(root, text="Quit", command=quit_game, font=("Arial", 13),bd=0)
 quit_btn.place(x=200,y=430)
 ```
-<img src="https://github.com/jokernets/snake-game/assets/165279911/f755f6a7-5a1d-4f41-a4eb-b0ebf7921ac5" width="300" height="300">
+<img src="https://github.com/jokernets/snake-game/assets/165279911/71c591e6-d3ca-468b-8b15-8479151eaf00" width="300" height="300">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 # نمونه های بیشتر و ویترین 🎄👑
 
 ## تصویر ویدیویی برنامه 📺
-https://github.com/jokernets/snake-game/assets/165279911/62642493-ac95-4706-b8ee-0c1e108c0047
 
 
-<a herf="buymeacoffee.com/jokernets"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" width="217px" ></a>
+https://github.com/jokernets/snake-game/assets/165279911/3ffd4a92-cf4c-4144-907a-de6ccc753358
+
+
+# `ارتباط با من`🌐👻
+
+<a herf="https://www.buymeacoffee.com/jokernets"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" width="180px">
+<a href="mailto:joker.until33@gmail.com"><img align="center" width="60px" src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/gmail.svg" style="max-width: 100%;"></a><a href="https://www.linkedin.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luv-sahu-182356200/" height="40" width="60" /></a>
+<a href="https://instagram.com/mrcode.co" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luv_k_sahu" height="40" width="50" /></a>
 
 
 
