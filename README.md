@@ -20,9 +20,9 @@
 ## `Translation 🔗`
 
   
-- [فارسی](/docs/README.ar-DZ.md)
+- [فارسی](https://github.com/jokernets/snake-game/blob/main/Translatin/FA.md)
 
-- [عربية](/docs/README.ar-DZ.md)
+- [عربية](https://github.com/jokernets/snake-game/blob/main/Translatin/AR.md)
 
 
 
