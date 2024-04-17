@@ -174,7 +174,7 @@ root.mainloop()
 
 ```
 
-<img src="https://github.com/jokernets/snake-game/assets/165279911/1928ea5c-26ee-4079-bdb4-34af515072c7" width="300" height="300">
+<img src="https://github.com/jokernets/snake-game/assets/165279911/e85318d1-420a-4ca4-a04f-ce7f4590235f" width="300" height="300">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -270,7 +270,8 @@ food = Food()
 running(snake,food)
 
 ```
-<img src="https://github.com/jokernets/snake-game/assets/165279911/4e919e64-8848-4d9c-9ef7-e452135ac6ce" width="300" height="300">
+<img src="https://github.com/jokernets/snake-game/assets/165279911/a2b89aef-2155-464e-95ef-719df1954d3b" width="300" height="300">
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -339,7 +340,8 @@ quit_btn= Button(root, text="Quit", command=quit_game, font=("Arial", 13),bd=0)
 quit_btn.place(x=200,y=430)
 ```
 
-<img src="https://github.com/jokernets/snake-game/assets/165279911/f755f6a7-5a1d-4f41-a4eb-b0ebf7921ac5" width="300" height="300">
+<img src="https://github.com/jokernets/snake-game/assets/165279911/71c591e6-d3ca-468b-8b15-8479151eaf00" width="300" height="300">
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -348,7 +350,7 @@ quit_btn.place(x=200,y=430)
 ### Video image of the APP 📺
 
 
-https://github.com/jokernets/snake-game/assets/165279911/62642493-ac95-4706-b8ee-0c1e108c0047
+https://github.com/jokernets/snake-game/assets/165279911/3ffd4a92-cf4c-4144-907a-de6ccc753358
 
 
 
