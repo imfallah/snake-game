@@ -60,7 +60,7 @@ Table of contents ✅✔
 
 # Installation
 
-## Install the module with pip:
+## Install the Library with pip:
 
 ```python
 pip install Tk
