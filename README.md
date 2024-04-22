@@ -40,8 +40,7 @@ Table of contents ✅✔
      * [PART 4✔](#part-4)
   
    * [Mor Example💯](#more-examples-and-showcase-)
-     * [Picture Project🔆](#project-image)
-     * [Video Project📺](#video-image-of-the-app-)
+     * [Project Video📺](#video-image-of-the-app-)
     
    * [`CONNECT ME🌐👻`](#connect-me)
 <!--te-->
